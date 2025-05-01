@@ -1,4 +1,5 @@
 #Robust Video Matting (RVM) Background Removal
+
 Background-Revoval-from-video
 Background Revoval from video using RVM model 
 A high-quality video background removal implementation using RVM (Robust Video Matting) in PyTorch. This project provides a complete Google Colab notebook for professional-grade video matting with temporal consistency.
